@@ -1,6 +1,6 @@
 Mobile gRPC Benchmarks
 ======================
-These tools are what we use to benchmark mobile clients. Here you can find how to replicate our results and explore our results in more detail. Check out the [blog post](link_to_post) as well.
+These tools are what we use to benchmark mobile clients. Here you can find how to replicate our results and explore our results in more detail. Check out the [blog post](https://grpc.io/blog/mobile-benchmarks/) as well.
 
 Replicating Results
 -------------------
